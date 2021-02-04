@@ -1,5 +1,5 @@
 # Portfolio
-# *About me
+* # About me
 # *Tools
 # *Tech skills
 # *Courses

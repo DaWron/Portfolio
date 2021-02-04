@@ -3,7 +3,7 @@
 # Tools
 # Tech skills
 # Courses
-* **uTest Academy at utest.com - in progress**
+* **[uTest Academy](https://utest.com) - in progress**
 # Books
 # Recommended blogs
 # Groups on Facebook

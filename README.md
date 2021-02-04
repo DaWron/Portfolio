@@ -1,7 +1,7 @@
 # Portfolio
 ___
 
-# About me
+## About me
 # Tools
 # Tech skills
 # Courses

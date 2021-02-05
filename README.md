@@ -2,8 +2,6 @@
 ___
 
 # About me
-__
-
 # Tools
 # Tech skills
 # Courses

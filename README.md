@@ -6,8 +6,8 @@
 # Courses
 * **[uTest Academy](https://utest.com) - in progress**
 # Books
-* **"Zawód tester" Radosław Smilgin
-* **"Pasja testowania" Krzysztof Jadczyk
+* **"Zawód tester"** Radosław Smilgin
+* **"Pasja testowania"** Krzysztof Jadczyk
 # Recommended blogs
 # Groups on Facebook
 # My projects

@@ -2,6 +2,8 @@
 ***
 # About me
 # Tools
+* **Jira - basics**
+* **Postman - basics**
 # Tech skills
 # Courses
 * **[uTest Academy](https://utest.com)**

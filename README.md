@@ -12,6 +12,7 @@
 # Books
 * **"Zawód tester"** Radosław Smilgin
 * **"Pasja testowania"** Krzysztof Jadczyk
+* **"PYTHON Instrukcje dla programisty"** Eric Matthes
 # Recommended blogs
 # Groups on Facebook
 # My projects

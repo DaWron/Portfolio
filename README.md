@@ -5,6 +5,8 @@
 * **Jira - basics**
 * **Postman - basics**
 # Tech skills
+* **SQL - basics**
+* **Python - basics**
 # Courses
 * **[uTest Academy](https://utest.com)**
 # Books
